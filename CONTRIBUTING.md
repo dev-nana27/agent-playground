@@ -1,4 +1,5 @@
-![Uploading 593560705-1a920eb5-e581-44ce-bcef-2ebf0566777f.png…]()
+<img width="663" height="183" alt="593560705-1a920eb5-e581-44ce-bcef-2ebf0566777f" src="https://github.com/user-attachments/assets/bdbdcfc8-ec46-444d-b617-b61c086988bc" />
+
 # Contributing Guidelines
 
 Thank you for contributing to agent-playground!
